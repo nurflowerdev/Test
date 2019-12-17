@@ -3,7 +3,7 @@ Rates&Conversions Application
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots]
+* [Screenshots](#screenshots)
 * [Libraries](#technologies)
 
 ## General info
