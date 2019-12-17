@@ -4,7 +4,7 @@ Rates&Conversions Application
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Libraries](#technologies)
+* [Libraries](#libraries)
 
 ## General info
 This project is simple Currency converter.
@@ -12,7 +12,7 @@ This project is simple Currency converter.
 ## Screenshots
 ![alt text](https://github.com/nurflowerdev/Test/blob/master/device-2019-12-17-120147.png "")
 	
-## Libraries used
+## Libraries
 Project is created with:
 * Foundation(AppCompat, Test)
 * Architecture(Room, ViewModel, LiveData, Dagger2, RxAndroid, RxJava)
